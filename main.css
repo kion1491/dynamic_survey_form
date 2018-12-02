@@ -1,0 +1,48 @@
+.q_type_select_btn{
+	border: 1px solid #f0f0f0;
+	width: 100%;
+	background: #fff;
+	padding: 3px;
+}
+
+.q_type_select_btn:hover{
+	background: #c8c8c8;
+	color: #fff;
+}
+
+.q_row{
+	padding: 10px;
+}
+
+ul{
+	list-style: none;
+}
+
+.q_li{
+	margin: 10px 0px 10px;
+}
+
+.comment_input input, .title_input input{
+	resize: none;
+	width: 95%;
+	margin-bottom:5px;}
+
+.q_sel_input{
+	width: 80%;
+}
+
+.scale_point_input input{
+	width: 19%;
+}
+
+.q_style_select:hover{
+	cursor: pointer;
+}
+
+#q_section input{
+	border-radius: 3px; border: 1px solid #c8c8c8;
+}
+
+#null_page h1, #null_page h2{
+	color: #c8c8c8;
+}
