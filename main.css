@@ -14,12 +14,12 @@
 	padding: 10px;
 }
 
-ul{
-	list-style: none;
-}
-
 .q_li{
 	margin: 10px 0px 10px;
+}
+
+ul{
+	list-style: none;
 }
 
 .comment_input input, .title_input input{
